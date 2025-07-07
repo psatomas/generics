@@ -1,0 +1,30 @@
+# Rust build output
+/target/
+
+# Backup & swap files (common on Ubuntu)
+*.swp
+*.swo
+*~
+
+# Binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.rlib
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Snap cache (Ubuntu Snap apps)
+.snap/
